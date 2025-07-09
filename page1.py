@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-hello world
-=======
 import torch
 import torchvision
 import torch.nn as nn
@@ -213,4 +210,3 @@ write_obj_verts(temp_mesh_path,outputs,output_headless_path)
 #display
 #pred_body_mesh = trimesh.load(f"custom_headless_{height}_{weight}.obj", process=False)
 #pred_body_mesh.show()
->>>>>>> Stashed changes
